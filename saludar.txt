@@ -6,4 +6,4 @@ vamos a crear un nueva version para crear checkout
 hola este es el saludo cinco
 Hola este es el saludo dos 
 #vamos a pasarlo a nuestro main
-vamos a crear otro punto de testeo
+creando un nuevo punto desde rama_pruebas
