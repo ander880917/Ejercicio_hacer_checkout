@@ -1,4 +1,3 @@
 Hola este es el saludo uno
-Hola este es el saludo dos
-Hola este es el saludo tres
-hola este es el saludo cuatro
+Hola este es el saludo dos 
+#vamos a pasarlo a nuestro main
